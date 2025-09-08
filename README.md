@@ -1,6 +1,8 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="kei’s pic.jpg" alt="Kei's Picture" width="200" style="border-radius:50%">
+  <img src="keispic.jpg" alt="Kei's Picture" width="200" style="border-radius:50%">
+
+  
   
   # 🌸 Hi, I’m **Keishara Amaraesya** 🌸
   [![Visitor Count](https://komarev.com/ghpvc/?username=keisharaamara&style=flat-square&color=ff69b4)](https://github.com/keisharaamara)
